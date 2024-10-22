@@ -1,5 +1,5 @@
 body {
-    background-color: rgba(39, 33, 43, 0.817);
+    background-color: rgba(0, 0, 0, 0.988);
     margin: 0px    
 }
 
@@ -7,12 +7,12 @@ nav a {
    margin-top: 5px;
     padding: 2px;
     font-size: 20px;
-    color:rgba(208, 96, 151, 0.462) 
+    color:rgb(209, 99, 226) 
     
     
 }
 h1 {
-    color: rgb(172, 46, 141);
+    color: rgb(209, 99, 226);
 }
  .categoria-video img {
     opacity: 0.6;
@@ -22,7 +22,7 @@ h1 {
     font-style: italic;
 }
 h2 {
-    color: rgb(172, 46, 141);
+    color: rgb(209, 99, 226);
 }
  .categoria-video img {
     opacity: 0.6;
